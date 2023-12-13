@@ -63,8 +63,8 @@ export default function Home() {
         <h1 className="text-4xl ">What are you waiting for?</h1>      
         <h1 className="text-4xl mb-16">Sign up now!</h1>
         <div className="flex justify-around">
-          <a href="" className="bg-darkgreen rounded-3xl p-2 px-3 md:px-16 md:py-3 border-2 border-black text-white">Become a Mentee</a>
-          <a href="" className="bg-darkgreen rounded-3xl p-2 px-3 md:px-16 md:py-3 border-2 border-black text-white">Become a Mentor</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeK0D3-JwopdRAAwLJK6QbonMAsSBEkafhIyf8XMUfu78eNxg/viewform?usp=sf_link" className="bg-darkgreen rounded-3xl p-2 px-3 md:px-16 md:py-3 border-2 border-black text-white">Become a Mentee</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfuHXLW-LRdI4f7g0UeDa2nAmL9kSZ8gaTHKSqpMNwXLM-vRg/viewform?usp=sf_link" className="bg-darkgreen rounded-3xl p-2 px-3 md:px-16 md:py-3 border-2 border-black text-white">Become a Mentor</a>
         </div>
         </div>
       </a>
