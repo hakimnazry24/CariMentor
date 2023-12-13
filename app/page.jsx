@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       {/* hero section */}
-      <div className="bg-lightgreen mx-3 font-itim rounded-b-3xl p-7 text-center md:text-left md:pl-20 md:w-full md:py-20">
+      <div className="bg-lightgreen mx-3 font-itim rounded-b-3xl p-7 text-center md:text-left md:pl-20 md:w-full py-52">
         <h1 className="text-4xl pt-5 pb-16 leading-tight md:text-5xl md:pb-20">"I want to build projects, <br></br>but I do not have <span className="underline underline-offset-8 decoration-red-600 decoration-wavy">a Mentor</span>"</h1>
         <p className="md:w-2/3">CariMentor goes beyond just pairing you with a dedicated mentor; it immerses you in a supportive mentor-mentee group, creating an environment conducive to nurturing creativity and fostering innovation.</p>
       </div>
